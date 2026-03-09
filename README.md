@@ -30,10 +30,10 @@ Projet réalisé dans le cadre de ma formation de développeur Python pour le d�
 - Interaction avec une API REST
 - Respect des normes W3C
 
-[Invest Finder](https://github.com/yobtrd/invest_finder)
+[Invest Finder](https://github.com/yobtrd/invest_finder)  
 Application en ligne de commande réalisée dans le cadre de ma formation de développeur Python, permettant de tester plusieurs algorithmes afin de résoudre un problème de sac à dos.
 - Implémentation de divers algorithmes (force brute, gloutons, programmation dynamique bottom-up et top-down...)
-- Possibilité de tester avec différents datasets via des fichiers CSV
+- Possibilité de tester avec différents datasets au format CSV
 - Possibilité de réaliser un benchmark pour mesurer la complexité temporelle et spatiale
 
 
