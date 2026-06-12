@@ -49,7 +49,7 @@ API RESTful sécurisée pour la gestion collaborative de problèmes et tâches t
 - Sécurité renforcée et conformité OWASP, RGPD, Green Code
 - Développement avec Django Rest Framework
 
-[Litevu](https://github.com/yobtrd/litrevu)  
+[Litrevu](https://github.com/yobtrd/litrevu)  
 Application web communautaire de partage de critiques littéraires
 - Gestion des comptes utilisateurs, publications et flux personnalisés
 - Fonctionnalités de réseau social : follow/unfollow
